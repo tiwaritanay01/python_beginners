@@ -1,0 +1,5 @@
+Match_ID,Batsman,Bowler,Pitch_Type,Ground_Name,Weather,Format,Prev_Dismissals,Balls_Faced,Runs_Scored,Strike_Rate,Batting_Hand,Bowling_Type,Match_Date
+1,Virat Kohli,Mitchell Starc,Hard & Bouncy,MCG,Clear,T20,3,20,35,175.0,Right-hand,Left-arm Fast,2023-10-22
+2,Virat Kohli,Mitchell Starc,Hard & Bouncy,MCG,Cloudy,T20,1,15,12,80.0,Right-hand,Left-arm Fast,2022-11-10
+3,Virat Kohli,Mitchell Starc,Hard & Bouncy,MCG,Clear,T20,0,30,60,200.0,Right-hand,Left-arm Fast,2021-12-05
+4,Virat Kohli,Mitchell Starc,Hard & Bouncy,MCG,Cloudy,T20,2,10,5,50.0,Right-hand,Left-arm Fast,2020-01-15
